@@ -8,6 +8,7 @@ $API = "YOUR API KEY" ------- Line 119
 
 
 Change the level depending on how sensitive you want your email alert to trigger
+Markup : * Bullet list
 Low = 35
 Medium = 25
 High = 15
