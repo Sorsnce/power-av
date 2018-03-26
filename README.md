@@ -4,7 +4,7 @@ PowerShell script that monitors any executed file and then sends the hash to Vir
 
 # Variables to Change
 Change the API key to your VirusTotal API  
-* $API = "YOUR API KEY" ------- Line 119
+$API = "YOUR API KEY" ------- Line 119
 ***
 
 Change the level depending on how sensitive you want your email alert to trigger
