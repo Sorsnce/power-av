@@ -8,11 +8,10 @@ $API = "YOUR API KEY" ------- Line 119
 
 
 Change the level depending on how sensitive you want your email alert to trigger
-* Bullet list
-Low = 35
-Medium = 25
-High = 15
-Paranoid = 5
+* Low = 35
+* Medium = 25
+* High = 15
+* Paranoid = 5
 $level = "NUMBER VALUE ABOVE" ----- Line 127
 
 Change the email address to reflect the desired send to
