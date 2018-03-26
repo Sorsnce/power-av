@@ -14,9 +14,10 @@ Change the level depending on how sensitive you want your email alert to trigger
 * Paranoid = 5
 
 * $level = "NUMBER VALUE ABOVE" ----- Line 127
+***
 
 Change the email address to reflect the desired send to  
-* $recipients = "SecurityTeam@test.com" --------- Line 131
+$recipients = "SecurityTeam@test.com" --------- Line 131
 
 Change the email address to reflect the desired send from  
 * $Sender = "VirusDetected@test.com" ----------- Line 133
