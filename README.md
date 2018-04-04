@@ -26,3 +26,6 @@ $Sender = "VirusDetected@test.com" ----------- Line 133
 
 Change the following to your SMTP server to send email alerts from the Virustotal report  
 $smtpserver = "smtp.test.local" ---------- Line 137
+***
+
+Write up - https://medium.com/@Sorsnce/powershell-anti-virus-with-virustotal-api-e5b3f46a158e
